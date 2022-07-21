@@ -1,0 +1,243 @@
+.footer{
+    margin-top: 23px;
+
+    &.detail{margin-top: 8px;}
+
+    .notice-area{
+        border-top: 1px solid #e1e4e7;
+        border-bottom: 1px solid #e1e4e7;
+        background-color: #fafafa;
+    }
+    .title-box{
+        display: flex;
+        justify-content: space-between;
+        // position: relative;
+        padding: 0 14px;
+        border-bottom: 1px solid #ededed;
+        font-size: 14px;
+        font-weight: normal;
+        line-height: 36px;
+        color: #000000;
+    }
+    .link-notice{
+        &::after{
+            content: '';
+            display: inline-block;
+            width: 7px; height: 11px;
+            background-position: -270px -229px;
+        }
+    }
+    .txt-box{
+        padding: 12px 15px;
+        font-size: 13px;
+        color: #7e8288;
+        line-height: 18px;
+        letter-spacing: -1px;
+    }
+
+    .main-add-area{
+        position: relative;
+        // z-index: 0;
+        margin: 15px 0 10px;
+        text-align: center;
+        
+    }
+    .add-box{
+        display: inline-block;
+        position: relative;
+        padding: 0 13px 0 53px;
+        height: 42px;
+        line-height: 42px;
+        background: #fff;
+        border: 1px solid #dcdcdc;
+        white-space: nowrap;
+
+
+
+        .desc{
+            display: inline-block;
+            line-height: 41px;
+            font-size: 15px;
+            color: #222;
+            // font-family: HelveticaNeue,AppleSDGothicNeo-Regular,Sans-serif;
+            em{
+                padding: 0 5px;
+                font-style: normal;
+                color: #00c73c;
+            }
+        }
+    }
+    .add-icon{
+        // display: inline-block;
+
+        position: absolute;
+        top: 0; left: 0;
+        z-index: 10;
+        padding: 7px 10px 11px 11px;
+        border-right: 1px solid #dcdcdc;
+        &::after{
+            content: '';
+            display:block;
+            width: 20px;
+            height: 22px;
+            // margin-bottom: 10px;
+            background: url(../images/icon/ic-sprite.png) no-repeat;
+            background-position: 0 0;
+            background-size: 64px 43px;
+        }
+    }
+
+
+    .btn-top{
+        margin-top: 4px;
+        border: 1px solid #e1e4e7;
+        border-radius: 1px;
+        background-color: #ffffff;
+        width: 100%;
+        font-size: 13px;
+        line-height: 43px;
+        color: #555555;
+
+        &::after{
+            content: '';
+            display: inline-block;
+            width: 8px; height: 5px;
+            margin: 19px 0 0 4px;
+            vertical-align: top;
+            background-position: -260px -240px;
+        }
+    }
+
+
+    .service-area{
+        display: flex;
+        width: 100%;
+        margin-top: 4px;
+        border: 1px solid #e1e4e7;
+        border-radius: 1px;
+        background-color: #f7f7f9;
+        box-sizing: border-box;
+
+        font-size: 13px;
+        line-height: 43px;
+        text-align: center;
+        color: #555555;
+        .link-login{
+            flex: 1;
+        }
+        .link-service{
+            position: relative;
+            flex: 1;
+            &::before{
+                content: '';
+                position: absolute;
+                top: 15px; left: 0;
+                width: 1px; height: 13px;
+                background-color: #ebebeb;
+            }
+        }
+    }
+
+    .info-area{
+        margin-top: 17px;
+        text-align: center;
+    }
+
+    .btn-info{
+        position: relative;
+        display: inline-block;
+        // margin: 0 0 1px 12px;
+        font-size: 13px;
+        font-family: AppleSDGothicNeo, sans-serif;
+        color: #555555;
+        line-height: 16px;
+
+        &::after{
+            content: '';
+            width: 8px;
+            height: 5px;
+            overflow: hidden;
+            display: inline-block;
+            margin: 0 0 2px 3px;
+            background-position: -250px -240px;
+            // transform: rotate(180deg);
+        }
+    }
+
+    //active 버튼
+    .btn-info{
+        &.active{
+            &::after{
+                transform: rotate(180deg);
+            }
+        }
+    }
+
+    //active로 보이게
+    .address-area01{
+        &.active{display: block;}
+    }
+    .address-area01{
+        display: none;
+        margin: 5px 0 9px;
+        padding: 8px 0;
+        font-size: 11px;
+        text-align: left;
+        background-color: #e2e6ea;
+        font-style: normal;
+    }
+    .address-box{
+        max-width: 260px;
+        margin: 0 auto;
+        text-align: left;
+        em{
+            margin-right: 10px;
+            color: #838383;
+            font-style: normal;
+        }
+        p{
+            display: flex;
+            color: #636363;
+        }
+    }
+
+
+    .link-area{
+        text-align: center;
+        padding: 6px 0 30px 0;
+        // padding-bottom: 30px;
+        a{
+            display: inline-block;
+            position: relative;
+            line-height: 22px;
+            padding: 0 8px;
+            font-family: AppleSDGothicNeo,sans-serif;
+            font-weight: 400;
+            font-size: 13px;
+            color: #888888;
+            vertical-align: top;
+        }
+    }
+    .naver-terms,
+    .transaction,
+    .shoppay{
+        &::before{
+            position: absolute;
+            top: 5px;
+            left: 0;
+            width: 1px;
+            height: 11px;
+            background-color: #c9cccf;
+            content: '';
+        }
+    }
+    .logo{
+        width: 68px; height: 13px;
+        display: inline-block;
+        position: relative;
+        margin-top: 15px;
+        // vertical-align: top;
+        background-position: -53px -141px;
+    }
+
+}

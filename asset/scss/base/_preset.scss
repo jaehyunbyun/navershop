@@ -1,0 +1,93 @@
+
+
+/*
+    @세팅구역
+*/
+body {
+    // min-width: ?세팅하시고
+    // font-family: $font-kr01;
+    // font-size: 14px;
+    // color:var(--colorBg1);
+    position: relative;
+    width: 100%;
+    // -webkit-text-size-adjust: none;
+    background-color: #e9ecef;
+
+
+    font-family: -apple-system,BlinkMacSystemFont,HelveticaNeue,AppleSDGothicNeo,sans-serif;
+
+    font-size: 14px;
+    line-height: 1.25em;
+    scroll-behavior: smooth;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    
+}
+
+
+.blind{
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    overflow: hidden;
+    clip: rect(0 0 0 0);
+    margin: -1px;
+}
+
+.common-inner{
+    // max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 6px;
+}
+
+
+
+.header .logo a,
+.header .link-shop,
+.header .btn-voice,
+.header .btn-img,
+.header .gnb-area::before,
+.header .btn-all::before,
+.header .gnb-area .beta::after,
+.header .gnb-area .mr,
+.header .gnb-area .toptop,
+.header .gnb-area .best,
+.header .gnb-area .shopping-live,
+.header .gnb-area .aitems,
+.footer .link-notice::after,
+.footer .btn-top::after,
+.footer .btn-info::after,
+.footer .logo{
+    background-image: url(../images/logo/sprite.png);
+    background-repeat: no-repeat;
+    background-size: 286px 267px;
+}
+
+
+
+
+
+.login-inner{
+    padding: 0 10px 34px;
+    background-color: #efeff0;
+}
+
+.login-header .logo,
+.login-header .link-shop,
+.login-header .link-shoplive,
+.login-header .btn-close{
+    background-image: url(https://shopping.pstatic.net/display/m/static/20220630095843/img/sprite/svg/spSw_hamburger_svg.svg);
+    background-size: 627px 623px;
+    background-repeat: no-repeat;
+}
+
+
+
+
+.detail-header .link-naver,
+.detail-header .btn-search,
+.detail-header .btn-basket,
+.detail-header .btn-menu{
+    background-size: 659px 650px;
+    background-image: url(https://static-resource-smartstore.pstatic.net/smartstore/m/static/20220630153710/img/sprite/svg/spIcon_svg.svg);
+}

@@ -1,0 +1,479 @@
+{
+
+    "mainSlide":[
+        {
+            "href":"상세페이지링크",
+            "event":"브랜드 데이",
+            "thmbnail":"./asset/images/contents/main01.jpg",
+            "title":"매일유업 ~66% ↓",
+            "subtitle":"역대급 할인 혜택"
+        },
+        {
+            "href":"상세페이지링크",
+            "event":"브랜드 데이",
+            "thmbnail":"./asset/images/contents/main02.jpg",
+            "title":"매일유업 ~66% ↓",
+            "subtitle":"역대급 할인 혜택"
+        },
+        {
+            "href":"상세페이지링크",
+            "event":"브랜드 데이",
+            "thmbnail":"./asset/images/contents/main03.jpg",
+            "title":"매일유업 ~66% ↓",
+            "subtitle":"역대급 할인 혜택"
+        },
+        {
+            "href":"상세페이지링크",
+            "event":"브랜드 데이",
+            "thmbnail":"./asset/images/contents/main04.jpg",
+            "title":"매일유업 ~66% ↓",
+            "subtitle":"역대급 할인 혜택"
+        },
+        {
+            "href":"상세페이지링크",
+            "event":"브랜드 데이",
+            "thmbnail":"./asset/images/contents/main05.jpg",
+            "title":"매일유업 ~66% ↓",
+            "subtitle":"역대급 할인 혜택"
+        },
+        {
+            "href":"상세페이지링크",
+            "event":"브랜드 데이",
+            "thmbnail":"./asset/images/contents/main06.jpg",
+            "title":"매일유업 ~66% ↓",
+            "subtitle":"역대급 할인 혜택"
+        },
+        {
+            "href":"상세페이지링크",
+            "event":"브랜드 데이",
+            "thmbnail":"./asset/images/contents/main07.jpg",
+            "title":"매일유업 ~66% ↓",
+            "subtitle":"역대급 할인 혜택"
+        },
+        {
+            "href":"상세페이지링크",
+            "event":"브랜드 데이",
+            "thmbnail":"./asset/images/contents/main08.jpg",
+            "title":"매일유업 ~66% ↓",
+            "subtitle":"역대급 할인 혜택"
+        },
+        {
+            "href":"상세페이지링크",
+            "event":"브랜드 데이",
+            "thmbnail":"./asset/images/contents/main09.jpg",
+            "title":"매일유업 ~66% ↓",
+            "subtitle":"역대급 할인 혜택"
+        }
+    ],
+
+
+    "baanerSlide":[
+        {
+            "href":"상세페이지링크",
+            "thmbnail":"./asset/images/contents/banner01.png",
+            "title":"오늘 AM 11시",
+            "subtitle":"[심쿡DAY] 비오면 생각나는 집쿡 요리! 여름이였다."
+        },
+        {
+            "href":"상세페이지링크",
+            "thmbnail":"./asset/images/contents/banner02.jpg",
+            "title":"오늘 AM 11시",
+            "subtitle":"[심쿡DAY] 비오면 생각나는 집쿡 요리! 여름이였다."
+        },
+        {
+            "href":"상세페이지링크",
+            "thmbnail":"./asset/images/contents/banner03.png",
+            "title":"오늘 AM 11시",
+            "subtitle":"[심쿡DAY] 비오면 생각나는 집쿡 요리! 여름이였다."
+        },
+        {
+            "href":"상세페이지링크",
+            "thmbnail":"./asset/images/contents/banner04.png",
+            "title":"오늘 AM 11시",
+            "subtitle":"[심쿡DAY] 비오면 생각나는 집쿡 요리! 여름이였다."
+        },
+        {
+            "href":"상세페이지링크",
+            "thmbnail":"./asset/images/contents/banner05.png",
+            "title":"오늘 AM 11시",
+            "subtitle":"[심쿡DAY] 비오면 생각나는 집쿡 요리! 여름이였다."
+        },
+        {
+            "href":"상세페이지링크",
+            "thmbnail":"./asset/images/contents/banner06.jpg",
+            "title":"오늘 AM 11시",
+            "subtitle":"[심쿡DAY] 비오면 생각나는 집쿡 요리! 여름이였다."
+        },
+        {
+            "href":"상세페이지링크",
+            "thmbnail":"./asset/images/contents/banner07.jpg",
+            "title":"오늘 AM 11시",
+            "subtitle":"[심쿡DAY] 비오면 생각나는 집쿡 요리! 여름이였다."
+        },
+        {
+            "href":"상세페이지링크",
+            "thmbnail":"./asset/images/contents/banner08.jpg",
+            "title":"오늘 AM 11시",
+            "subtitle":"[심쿡DAY] 비오면 생각나는 집쿡 요리! 여름이였다."
+        },
+        {
+            "href":"상세페이지링크",
+            "thmbnail":"./asset/images/contents/banner09.jpg",
+            "title":"오늘 AM 11시",
+            "subtitle":"[심쿡DAY] 비오면 생각나는 집쿡 요리! 여름이였다."
+        },
+        {
+            "href":"상세페이지링크",
+            "thmbnail":"./asset/images/contents/banner10.png",
+            "title":"오늘 AM 11시",
+            "subtitle":"[심쿡DAY] 비오면 생각나는 집쿡 요리! 여름이였다."
+        }
+    ],
+
+
+
+    "liveItems":[
+        {
+            "href":"상세페이지링크",
+            "shopItemBig":"./asset/images/contents/shopping01.jpg",
+            "shopItemSmall":"./asset/images/contents/shopping1-1.jpg",
+            "title":"시원한 여름나기 최대 혜택전",
+            "event":null,
+            "subtitle":"[JAJU/자주] 남/여 레이온 비치 패턴 5부/3부 파자마상하세트 8종택1(여3부/남5부)",
+            "supplier":"자주 JAJU"
+        },
+        {
+            "href":"상세페이지링크",
+            "shopItemBig":"./asset/images/contents/shopping02.png",
+            "shopItemSmall":"asset/images/contents/shopping2-2.jpg",
+            "title":"시원한 여름나기 최대 혜택전",
+            "event":null,
+            "subtitle":"[JAJU/자주] 남/여 레이온 비치 패턴 5부/3부 파자마상하세트 8종택1(여3부/남5부)",
+            "supplier":"자주 JAJU"
+        },
+        {
+            "href":"상세페이지링크",
+            "shopItemBig":"./asset/images/contents/shopping03.png",
+            "shopItemSmall":"asset/images/contents/shopping3-3.jpg",
+            "title":"시원한 여름나기 최대 혜택전",
+            "event":null,
+            "subtitle":"[JAJU/자주] 남/여 레이온 비치 패턴 5부/3부 파자마상하세트 8종택1(여3부/남5부)",
+            "supplier":"자주 JAJU"
+        }
+    ],
+
+
+
+    "trendSlide":[
+        {
+            "href":"상세페이지링크",
+            "thmbnail":"./asset/images/contents/trend01.jpg",
+            "event":"슬랙스 무료배송"
+        },
+        {
+            "href":"상세페이지링크",
+            "thmbnail":"./asset/images/contents/trend02.jpg",
+            "event":"슬랙스 무료배송"
+        },
+        {
+            "href":"상세페이지링크",
+            "thmbnail":"./asset/images/contents/trend03.jpg",
+            "event":"슬랙스 무료배송"
+        },
+        {
+            "href":"상세페이지링크",
+            "thmbnail":"./asset/images/contents/trend04.jpg",
+            "event":"슬랙스 무료배송"
+        },
+        {
+            "href":"상세페이지링크",
+            "thmbnail":"./asset/images/contents/trend05.jpg",
+            "event":"슬랙스 무료배송"
+        },
+        {
+            "href":"상세페이지링크",
+            "thmbnail":"./asset/images/contents/trend06.jpg",
+            "event":"슬랙스 무료배송"
+        },
+        {
+            "href":"상세페이지링크",
+            "thmbnail":"./asset/images/contents/trend07.jpg",
+            "event":"슬랙스 무료배송"
+        },
+        {
+            "href":"상세페이지링크",
+            "thmbnail":"./asset/images/contents/trend08.jpg",
+            "event":"슬랙스 무료배송"
+        },
+        {
+            "href":"상세페이지링크",
+            "thmbnail":"./asset/images/contents/trend09.jpg",
+            "event":"슬랙스 무료배송"
+        },
+        {
+            "href":"상세페이지링크",
+            "thmbnail":"./asset/images/contents/trend10.jpg",
+            "event":"슬랙스 무료배송"
+        }
+    ],
+    "mallList":[
+        {
+            "active" : "active",
+            "thmbnail":"https://shop-phinf.pstatic.net/20210826_119/16299525940212YNqK_PNG/31088377458124957_1245626031.png?type=f100",
+            "title":"걸스케이스"
+        },
+        {
+            "thmbnail":"https://shop-phinf.pstatic.net/20201030_211/1604038521042awC8E_JPEG/5174416762835364_143552738.jpg?type=f100",
+            "title":"AKANCASE"
+        },
+        {
+            "thmbnail":"https://shop-phinf.pstatic.net/20190925_53/15693946401434I7E7_JPEG/6758028680285494_1278678800.jpg?type=f100",
+            "title":"본지샵"
+        },
+        {
+            "thmbnail":"https://shop-phinf.pstatic.net/20190516_118/jellpe_1557994126875Q5EkP_JPEG/81300427499313045_374253920.jpg?type=f100" ,
+            "title":"jellpe"
+        },
+        {
+            "thmbnail":"https://shop-phinf.pstatic.net/20211007_179/1633595287808NpQGv_JPEG/34731121628523407_1387509143.jpg?type=f100" ,
+            "title":"키작아도괜찮아 에이와비"
+        },
+        {
+            "thmbnail":"https://shop-phinf.pstatic.net/20220315_50/16473199780548gnoK_JPEG/48455757682319575_1694565143.jpg?type=f100" ,
+            "title":"라일론"
+        },
+        {
+            "thmbnail":"https://shop-phinf.pstatic.net/20210225_253/1614218773383FjeWi_PNG/15354668900237666_1385438236.png?type=f100",
+            "title":"민지콩"
+        },
+        {
+            "thmbnail":"https://shop-phinf.pstatic.net/20210203_57/1612316984600Pdm6b_JPEG/13452827310407872_60970192.jpg?type=f100",
+            "title":"모노바비"
+        },
+        {
+            "thmbnail":"https://shop-phinf.pstatic.net/20200210_27/1581262871044DyWIV_JPEG/18626259568816195_1286632981.jpg?type=f100" ,
+            "title":"통큰준구씨"
+        },
+        {
+            "thmbnail":"https://shop-phinf.pstatic.net/20201211_144/1607645787043dDQ4F_JPEG/8781629586184095_1577350955.jpg?type=f100",
+            "title":"9rumi"
+        }
+    ],
+    
+    "mallItems":[
+        {
+            "href":"상세페이지링크",
+            "thmbnail":"https://shop-phinf.pstatic.net/20220329_223/164851778726734F4V_JPEG/55982419365721587_374968697.jpg?type=f600_600",
+            "prc":"15,300원",
+            "title":"걸스케이스 아이폰13 프로 맥스 미니 아이폰12 PRO 플라워 압화 젤리 케이스",
+            "event":"NEW"
+        },
+        {
+            "href":"상세페이지링크",
+            "thmbnail":"https://shop-phinf.pstatic.net/20220310_48/16468776745543Y4MR_JPEG/54342370650056101_726785992.jpg?type=f600_600",
+            "prc":"18,000원",
+            "title":"걸스케이스 아이폰13 프로 맥스 미니 아이폰12 PRO 스핀 플라워 젤리 케이스",
+            "event":"NEW"
+            
+        },
+        {
+            "href":"상세페이지링크",
+            "thmbnail":"https://shop-phinf.pstatic.net/20220502_172/1651471676337cqnpf_JPEG/58936372448180093_1602734465.jpg?type=f600_600",
+            "prc":"14,400원",
+            "title":"걸스케이스 아이폰13 프로 맥스 미니 아이폰12 PRO 플라워 압화 젤리 케이스",
+            "event":"오늘출발"
+        },
+        {
+            "href":"상세페이지링크",
+            "thmbnail":"https://shop-phinf.pstatic.net/20211118_252/1637223677373LKIWe_JPEG/44688309472339344_2047123250.jpg?type=f600_600",
+            "prc":"16,000원",
+            "title":"걸스케이스 아이폰13 프로 맥스 아이폰12 PRO 아이폰11 프리미엄 카드 가죽",
+            "event":"NEW"
+        },
+        {
+            "href":"상세페이지링크",
+            "thmbnail":"https://shop-phinf.pstatic.net/20220329_203/1648520485551s6itf_JPEG/55985181624707951_888542133.jpg?type=f600_600",
+            "prc":"15,300d원",
+            "title":"걸스케이스 마그네틱 가죽 에어팟 프로 3세대 2세대 1세대",
+            "event":"26%SALE"
+        },
+        {
+            "href":"상세페이지링크",
+            "thmbnail":"https://shop-phinf.pstatic.net/20220602_36/1654135347907lqCF2_JPEG/61600044001705391_1534223328.jpg?type=f600_600",
+            "prc":"14,400원",
+            "title":"걸스케이스 아이폰 13 프로 맥스 아이폰 12 PRO 아이폰11 실버 크롬 베어 실리콘 케이스",
+            "event":"NEW"
+        }
+    ],
+    "rankingItem":[
+        {
+            "href":"상세페이지링크",
+            "thmbnail":"./asset/images/contents/ranking1-1.jpg" ,
+            "title":"집에서도 간편히 즐기자"
+        },
+        {
+            "href":"상세페이지링크",
+            "thmbnail":"./asset/images/contents/ranking1-2.jpg" ,
+            "title":"다꾸템으로도 좋아"
+        },
+        {
+            "href":"상세페이지링크",
+            "thmbnail":"./asset/images/contents/ranking1-3.jpg" ,
+            "title":"분위기 내기 안성맞춤"
+        },
+        {
+            "href":"상세페이지링크",
+            "thmbnail":"./asset/images/contents/ranking1-4.jpg" ,
+            "title":"러블리함 업그레이드"
+        }
+    ],
+    
+    "rankBest":[
+        {
+            "href":"상세페이지링크",
+            "number":"NEW",
+            "thmbnail":"./asset/images/contents/rank-best01.jpg",
+            "title":"복숭아 딱딱이 납작복숭아 신비복숭아 대극천 말랑이 천도 백도 황도 하우스",
+            "prc":"9,900"
+        },
+        {
+            "href":"상세페이지링크",
+            "number":"NEW",
+            "thmbnail":"./asset/images/contents/rank-best02.jpg",
+            "title":"복숭아 딱딱이 납작복숭아 신비복숭아 대극천 말랑이 천도 백도 황도 하우스",
+            "prc":"9,900"
+        },
+        {
+            "href":"상세페이지링크",
+            "number":"NEW",
+            "thmbnail":"./asset/images/contents/rank-best03.jpg",
+            "title":"복숭아 딱딱이 납작복숭아 신비복숭아 대극천 말랑이 천도 백도 황도 하우스",
+            "prc":"9,900"
+        },
+        {
+            "href":"상세페이지링크",
+            "number":"NEW",
+            "thmbnail":"./asset/images/contents/rank-best04.jpg",
+            "title":"복숭아 딱딱이 납작복숭아 신비복숭아 대극천 말랑이 천도 백도 황도 하우스",
+            "prc":"9,900"
+        },
+        {
+            "href":"상세페이지링크",
+            "number":"NEW",
+            "thmbnail":"./asset/images/contents/rank-best05.jpg",
+            "title":"복숭아 딱딱이 납작복숭아 신비복숭아 대극천 말랑이 천도 백도 황도 하우스",
+            "prc":"9,900"
+        },
+        {
+            "href":"상세페이지링크",
+            "number":"NEW",
+            "thmbnail":"./asset/images/contents/rank-best06.jpg",
+            "title":"복숭아 딱딱이 납작복숭아 신비복숭아 대극천 말랑이 천도 백도 황도 하우스",
+            "prc":"9,900"
+        },
+        {
+            "href":"상세페이지링크",
+            "number":"NEW",
+            "thmbnail":"./asset/images/contents/rank-best07.jpg",
+            "title":"복숭아 딱딱이 납작복숭아 신비복숭아 대극천 말랑이 천도 백도 황도 하우스",
+            "prc":"9,900"
+        },
+        {
+            "href":"상세페이지링크",
+            "number":"NEW",
+            "thmbnail":"./asset/images/contents/rank-best08.jpg",
+            "title":"복숭아 딱딱이 납작복숭아 신비복숭아 대극천 말랑이 천도 백도 황도 하우스",
+            "prc":"9,900"
+        },
+        {
+            "href":"상세페이지링크",
+            "number":"NEW",
+            "thmbnail":"./asset/images/contents/rank-best09.jpg",
+            "title":"복숭아 딱딱이 납작복숭아 신비복숭아 대극천 말랑이 천도 백도 황도 하우스",
+            "prc":"9,900"
+        },
+        {
+            "href":"상세페이지링크",
+            "number":"NEW",
+            "thmbnail":"./asset/images/contents/rank-best09.jpg",
+            "title":"복숭아 딱딱이 납작복숭아 신비복숭아 대극천 말랑이 천도 백도 황도 하우스",
+            "prc":"9,900"
+        }
+    ],
+    "brandList":[
+        {
+            "href":"상세페이지링크",
+            "thmbnail":"./asset/images/contents/store01.jpg",
+            "title":"페브리즈공식몰"
+        },
+        {
+            "href":"상세페이지링크",
+            "thmbnail":"./asset/images/contents/store02.jpg",
+            "title":"광주요"
+        },
+        {
+            "href":"상세페이지링크",
+            "thmbnail":"./asset/images/contents/store03.jpg",
+            "title":"오르빗베이비"
+        },
+        {
+            "href":"상세페이지링크",
+            "thmbnail":"./asset/images/contents/store04.jpg",
+            "title":"베네통"
+        },
+        {
+            "href":"상세페이지링크",
+            "thmbnail":"./asset/images/contents/store05.jpg",
+            "title":"HUNTER"
+        },
+        {
+            "href":"상세페이지링크",
+            "thmbnail":"./asset/images/contents/store06.jpg",
+            "title":"알파스캔"
+        },
+        {
+            "href":"상세페이지링크",
+            "thmbnail":"./asset/images/contents/store07.jpg",
+            "title":"브라더코리아"
+        },
+        {
+            "href":"상세페이지링크",
+            "thmbnail":"./asset/images/contents/store08.jpg",
+            "title":"카라즈"
+        },
+        {
+            "href":"상세페이지링크",
+            "thmbnail":"./asset/images/contents/store09.jpg",
+            "title":"헤어키친 브랜드스토어"
+        },
+        {
+            "href":"상세페이지링크",
+            "thmbnail":"./asset/images/contents/store10.jpg",
+            "title":"가히 KAHI 공식 스토어"
+        }
+    ],
+
+    "hotDeal":[
+        {
+            "href":"상세페이지링크",
+            "event":"35%",
+            "thmbnail":"./asset/images/contents/hotdeal01.jpg" ,
+            "title":"구중구포 수제 흑삼겔 10g 20포",
+            "prc":"38,350"
+        },
+        {
+            "href":"상세페이지링크",
+            "event":"35%",
+            "thmbnail":"./asset/images/contents/hotdeal02.jpg" ,
+            "title":"복순도가 트러플 흑임자크림 감자뇨끼",
+            "prc":"10,900"
+        },
+        {
+            "href":"상세페이지링크",
+            "event":"35%",
+            "thmbnail":"./asset/images/contents/hotdeal03.jpg" ,
+            "title":"녹진한 서리태 1등 국산 콩물",
+            "prc":"7,900"
+        }
+    ]
+}

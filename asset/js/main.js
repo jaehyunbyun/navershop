@@ -177,7 +177,7 @@ $(function(){
     // });//end
 
     //메인슬라이드 부분
-    fetch('../asset/data/product.json')
+    fetch('https://jaehyunbyun.github.io/navershop/asset/data/product.json')
     .then((response) => response.json())
     .then((json) => {
         mSlide = json.mainSlide
@@ -219,7 +219,7 @@ $(function(){
     });
 
 
-    fetch('../asset/data/product.json')
+    fetch('https://jaehyunbyun.github.io/navershop/asset/data/product.json')
     .then((response) => response.json())
     .then((json) => {
         baNner = json.baanerSlide
@@ -261,7 +261,7 @@ $(function(){
 
     //쇼핑라이브 부분
 
-    fetch('../asset/data/product.json')
+    fetch('https://jaehyunbyun.github.io/navershop/asset/data/product.json')
     .then((response) => response.json())
     .then((json) => {
         item = json.liveItems
@@ -329,7 +329,7 @@ $(function(){
     //트렌드핏
 
 
-    fetch('../asset/data/product.json')
+    fetch('https://jaehyunbyun.github.io/navershop/asset/data/product.json')
     .then((response) => response.json())
     .then((json) => {
         trend = json.trendSlide
@@ -455,7 +455,7 @@ $(function(){
     // })
 
 // sc-mall상품들
-    fetch('../asset/data/product.json')
+    fetch('https://jaehyunbyun.github.io/navershop/asset/data/product.json')
     .then((response) => response.json())
     .then((json) => {
         mallItem = json.mallItems
@@ -494,7 +494,7 @@ $(function(){
 
 
     //잇걸
-    fetch('../asset/data/product.json')
+    fetch('https://jaehyunbyun.github.io/navershop/asset/data/product.json')
     .then((response) => response.json())
     .then((json) => {
         rankItem = json.rankingItem
@@ -519,7 +519,7 @@ $(function(){
         $('.sc-ranking .itgirl').append(html);
     })
 // 일간베스트
-fetch('../asset/data/product.json')
+fetch('https://jaehyunbyun.github.io/navershop/asset/data/product.json')
     .then((response) => response.json())
     .then((json) => {
         rankBest = json.rankBest
@@ -559,7 +559,7 @@ fetch('../asset/data/product.json')
 
 
 
-    fetch('../asset/data/product.json')
+    fetch('https://jaehyunbyun.github.io/navershop/asset/data/product.json')
     .then((response) => response.json())
     .then((json) => {
         brnadlist = json.brandList
@@ -582,7 +582,7 @@ fetch('../asset/data/product.json')
     })
 
     //핫딜
-    fetch('../asset/data/product.json')
+    fetch('https://jaehyunbyun.github.io/navershop/asset/data/product.json')
     .then((response) => response.json())
     .then((json) => {
         hotDeal = json.hotDeal
